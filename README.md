@@ -9,12 +9,22 @@ Make sure to check their awesome client panel too https://github.com/Dashactyl-D
 
 What im planning so far:
 
+____________________
 Logging
+____________________
 Server creation
+____________________
 Server editing
+____________________
 Server deletion
+____________________
 Store
+____________________
 Afk system
+____________________
 Easy to use admin panel
+____________________
 Ban system
+____________________
 Renew system
+____________________
